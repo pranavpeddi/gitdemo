@@ -1,0 +1,1 @@
+const something : string = "check";
